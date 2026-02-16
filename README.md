@@ -2,8 +2,12 @@
 
 ## **Live Demo**
 
-Frontend: [https://your-frontend.vercel.app](https://your-frontend.vercel.app)  
-Backend: [https://your-backend.onrender.com](https://your-backend.onrender.com)
+Frontend: https://bellcorp-event-management-three.vercel.app/
+Backend: https://bellcorp-event-management-aa95.onrender.com
+
+## **GitHub Repository**
+
+https://github.com/Tinku070/bellcorp-event-management.git
 
 ## **Test Credentials**
 
@@ -104,8 +108,8 @@ This implements a many-to-many relationship between users and events.
 
 ### **Backend (.env)**
 
-`MONGO_URI=your_mongodb_connection`  
-`JWT_SECRET=your_secret`
+`MONGO_URI=mongodb+srv://bellcorpUser:Bellcrop123@cluster0.fypq20f.mongodb.net/?appName=Cluster0`  
+`JWT_SECRET=bellcorpsecret`
 
 ### **Frontend (.env)**
 
